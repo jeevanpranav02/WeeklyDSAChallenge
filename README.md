@@ -1,5 +1,5 @@
 # WeeklyDSAChallenge
-This is a repository where I will be storing the problems which I have solved during the Weekly DSA Challenge. In this challenge, I will learn new concepts in Data Structures and Algorithms and then apply them to solve problems.
+This is a repository where I will be storing the problems, which I have solved during the Weekly DSA Challenge. In this challenge, I will learn new concepts in Data Structures and Algorithms and then apply them to solve problems.
 ---
 The list of concept which will be covered for the week is given below:
 - [ ] Week - 01 - Arrays
