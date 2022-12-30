@@ -9,7 +9,7 @@ This is a repository where I will be storing the problems, that I have solved du
 The list of concepts that will be covered for the upcoming weeks are given below:
 
 - [x]  Week - 01 - Arrays
-- [ ]  Week - 02 - 2D Arrays
+- [x]  Week - 02 - 2D Arrays
 - [ ]  Week - 03 - Strings
 - [ ]  Week - 04 - Bits manipulation
 - [ ]  Week - 05 - Math for Competitive Programming
