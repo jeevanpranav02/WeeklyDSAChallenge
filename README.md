@@ -13,7 +13,7 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 03 - Strings
 - [x] Week - 04 - Bits manipulation
 - [x] Week - 05 - Math for Competitive Programming
-- [ ] Week - 06 - Recursion
+- [x] Week - 06 - Recursion
 - [ ] Week - 07 - Searching
 - [ ] Week - 08 - Sorting
 - [ ] Week - 09 - Stack
