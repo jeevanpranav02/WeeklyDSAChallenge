@@ -15,7 +15,7 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 05 - Math for Competitive Programming
 - [x] Week - 06 - Recursion
 - [x] Week - 07 - Searching
-- [ ] Week - 08 - Sorting
+- [x] Week - 08 - Sorting
 - [ ] Week - 09 - Stack
 - [ ] Week - 10 - Queue
 - [ ] Week - 11 - Linked List
