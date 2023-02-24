@@ -17,12 +17,13 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 07 - Searching
 - [x] Week - 08 - Sorting
 - [x] Week - 09 - Stack
-- [ ] Week - 10 - Queue
+- [x] Week - 10 - Queue
 - [ ] Week - 11 - Linked List
-- [ ] Week - 12 - Trees
-- [ ] Week - 13 - Graphs
-- [ ] Week - 14 - HashMap
-- [ ] Week - 15 - Backtracking
-- [ ] Week - 16 - Dynamic programming
-- [ ] Week - 17 - Greedy algorithm
-- [ ] Week - 18 - Divide and conquer
+- [ ] Week - 12 - Heap
+- [ ] Week - 13 - Trees
+- [ ] Week - 14 - Graphs
+- [ ] Week - 15 - Hashing
+- [ ] Week - 16 - Divide and conquer
+- [ ] Week - 17 - Backtracking
+- [ ] Week - 18 - Greedy algorithm
+- [ ] Week - 19 - Dynamic programming
