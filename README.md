@@ -18,7 +18,7 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 08 - Sorting
 - [x] Week - 09 - Stack
 - [x] Week - 10 - Queue
-- [ ] Week - 11 - Linked List
+- [x] Week - 11 - Linked List
 - [ ] Week - 12 - Heap
 - [ ] Week - 13 - Trees
 - [ ] Week - 14 - Graphs
