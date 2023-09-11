@@ -22,7 +22,7 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 12 - Heap
 - [x] Week - 13 - Trees
 - [x] Week - 14 - Graphs
-- [ ] Week - 15 - Hashing
+- [x] Week - 15 - Hashing
 - [ ] Week - 16 - Divide and conquer
 - [ ] Week - 17 - Backtracking
 - [ ] Week - 18 - Greedy algorithm
