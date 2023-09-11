@@ -23,7 +23,7 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 13 - Trees
 - [x] Week - 14 - Graphs
 - [x] Week - 15 - Hashing
-- [ ] Week - 16 - Divide and conquer
+- [x] Week - 16 - Divide and conquer
 - [ ] Week - 17 - Backtracking
 - [ ] Week - 18 - Greedy algorithm
 - [ ] Week - 19 - Dynamic programming
