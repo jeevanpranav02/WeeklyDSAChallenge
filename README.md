@@ -24,6 +24,6 @@ The list of concepts that will be covered for the upcoming weeks are given below
 - [x] Week - 14 - Graphs
 - [x] Week - 15 - Hashing
 - [x] Week - 16 - Divide and conquer
-- [ ] Week - 17 - Backtracking
+- [x] Week - 17 - Backtracking
 - [ ] Week - 18 - Greedy algorithm
 - [ ] Week - 19 - Dynamic programming
